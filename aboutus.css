@@ -1,0 +1,43 @@
+.navbar{
+    background-color: lightblue;
+    border: 3px solid;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+}
+
+div.navbar > a{
+    text-decoration: none;
+    color: black
+}
+
+.about-section{
+    padding: 50px;
+    margin-top: 10px;
+    text-align: center;
+    border: 3px solid black;
+    height: 350px;
+    width: 1400px; 
+    background-color: lightpink;
+    color:black;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo{
+    height: 150px ;
+    width: 150px;
+    margin-top: 25px;
+    margin-left: 500px;
+}
+
+div.footer > h1{
+    color: red;
+    position:absolute;
+    top:25px;
+    left:650px;
+    font-size: 70px;
+    font-family: 'Lato', sans-serif;
+}
